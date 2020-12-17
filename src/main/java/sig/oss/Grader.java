@@ -12,4 +12,4 @@ class Grader {
 		return grade;
 	}
 }
-
+//Initial Grader project
